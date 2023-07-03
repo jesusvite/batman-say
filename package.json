@@ -1,5 +1,5 @@
 {
-  "name": "batman-say",
+  "name": "picture-batman",
   "version": "1.0.0",
   "description": "batman say",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "author": "Jesus Nicolas Vite",
   "license": "MIT",
   "bin": {
-    "batman-say": "./bin/global.js"
+    "picture-batman": "./bin/global.js"
   },
   "preferGlobal": true
 }
