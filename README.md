@@ -9,13 +9,14 @@ npm install picture-batman
 ```
 
 # Usage
-```bash
- random-str-msg
+```
+picture-batman
+
 ```
 
 # Contributing
 
-si, gusta agregar o remover algo, sientete libre de colaborar en este apartado.[picture-barman](git@github.com:jesusvite/picture-batman.git)
+si, gusta agregar o remover algo, sientete libre de colaborar en este apartado[picture-barman](git@github.com:jesusvite/picture-batman.git).
 
 # License
 
